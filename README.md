@@ -144,8 +144,6 @@ After running the full pipeline:
 ## 👤 Author
 
 **Ahmed Saber**
-- GitHub: [@AhmedSaber](https://github.com/AhmedSaber)
-- LinkedIn: [Ahmed Saber](https://linkedin.com/in/AhmedSaber)
 
 ---
 
